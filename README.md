@@ -100,7 +100,8 @@ Heatmap of USA showing where accidents cluster. Red = high danger zones.
 ---
 
 ## 📁 What's Inside This Repository?
-'''US-Accidents-Hotspot-Analysis/
+```
+US-Accidents-Hotspot-Analysis/
 │
 ├── Task4_Accident_Analysis.ipynb    # Main code: data cleaning + analysis + charts
 ├── accident_hotspots.html           # Interactive map you can click and zoom
@@ -112,7 +113,8 @@ Heatmap of USA showing where accidents cluster. Red = high danger zones.
     ├── weather_analysis.png
     ├── states_analysis.png
     ├── severity_analysis.png
-    └── accident_heatmap.png'''
+    └── accident_heatmap.png
+  ```
 
 ---
 
